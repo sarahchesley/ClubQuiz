@@ -11,9 +11,7 @@ Secretaries: Ashley Miles, Harrison Cole
 Treasurer: Anthony Choi
 
 Historian: Gabriel Mukobi
-</p>
-
-<p align = right> pay NHS dues ($15 once a year)
+</p> <p align = right> pay NHS dues ($15 once a year)
 <p align = right>submit 4 hours of service monthly by 11:59PM on the 1st day of each month
 <p align = right>attend at least one meeting each month
 <p align = right>participate in at least ONE NHS sponsored event each semester
