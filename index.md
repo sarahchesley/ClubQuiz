@@ -1,6 +1,17 @@
 # CHS National Honor Society <IMG SRC = http://hssn-media.advance.net/OregonLive.com/news/c35c1e4596339fedff66ec34f96c13f2/camaslogo.jpg height= 100 align=right> <IMG SRC = https://www.reynolds.k12.or.us/sites/default/files/imageattachments/rhs/page/14811/resize.jpg height = 100 align = right>
-### _noblesse oblige_ "nobility obligates"
+## _noblesse oblige_ "nobility obligates"
+ 
+<p align=left> 2017-2018 NHS Officers
+President: Katie Blair
 
+Vice President: Emma Turk
+
+Secretaries: Ashley Miles, Harrison Cole
+
+Treasurer: Anthony Choi
+
+Historian: Gabriel Mukobi
+</p>
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
