@@ -2,6 +2,7 @@
 ## _noblesse oblige_ "nobility obligates"
  
 <p align=left> 2017-2018 NHS Officers
+ 
 President: Katie Blair
 
 Vice President: Emma Turk
