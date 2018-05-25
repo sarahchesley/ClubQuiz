@@ -1,4 +1,4 @@
-# CHS National Honor Society <IMG SRC = http://hssn-media.advance.net/OregonLive.com/news/c35c1e4596339fedff66ec34f96c13f2/camaslogo.jpg height= 100 align=right>
+# CHS National Honor Society <IMG SRC = http://hssn-media.advance.net/OregonLive.com/news/c35c1e4596339fedff66ec34f96c13f2/camaslogo.jpg height= 100 align=right> <IMG SRC = https://www.reynolds.k12.or.us/sites/default/files/imageattachments/rhs/page/14811/resize.jpg height = 100 align = right>
 ### _noblesse oblige_ "nobility obligates"
 
 
