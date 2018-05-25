@@ -1,6 +1,6 @@
 # CHS Club Quiz 
 ### Find the best clubs to match you 
-You can use the [editor on GitHub](https://github.com/sarahchesley/ClubQuiz/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<IMG SRC = http://highschoolsports.oregonlive.com/news/article/-6641619067933484183/camas-quarterback-reilly-hennessey-earns-washingtons-gatorade-player-of-the-year-honors/>
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
