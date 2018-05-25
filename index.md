@@ -1,4 +1,5 @@
 # CHS National Honor Society <IMG SRC = http://hssn-media.advance.net/OregonLive.com/news/c35c1e4596339fedff66ec34f96c13f2/camaslogo.jpg height= 100 align=right> <IMG SRC = https://www.reynolds.k12.or.us/sites/default/files/imageattachments/rhs/page/14811/resize.jpg height = 100 align = right>
+<img src=https://nhscamas.files.wordpress.com/2017/09/cropped-img_4506.jpg>
 ## _noblesse oblige_ "nobility obligates"
 NHS is a national organization established to recognize outstanding high school students since its beginning in 1921. More than just an honor roll, NHS serves to recognize those students who have demonstrated excellence in the key pillars of scholarship, service, leadership, and character.
 
