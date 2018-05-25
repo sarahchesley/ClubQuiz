@@ -1,8 +1,5 @@
 # CHS National Honor Society <IMG SRC = http://hssn-media.advance.net/OregonLive.com/news/c35c1e4596339fedff66ec34f96c13f2/camaslogo.jpg height= 100 align=right> <IMG SRC = https://www.reynolds.k12.or.us/sites/default/files/imageattachments/rhs/page/14811/resize.jpg height = 100 align = right>
 ## _noblesse oblige_ "nobility obligates"
-p {    display: block;}
-
-
 <p align=left> 2017-2018 NHS Officers
  
 President: Katie Blair
@@ -17,10 +14,10 @@ Historian: Gabriel Mukobi
 </p>
 
 <p align = right> pay NHS dues ($15 once a year)
-submit 4 hours of service monthly by 11:59PM on the 1st day of each month
-attend at least one meeting each month
-participate in at least ONE NHS sponsored event each semester
-maintain a 3.4 cumulative GPA </p>
+<p align = right>submit 4 hours of service monthly by 11:59PM on the 1st day of each month
+<p align = right>attend at least one meeting each month
+<p align = right>participate in at least ONE NHS sponsored event each semester
+<p align = right>maintain a 3.4 cumulative GPA 
 
 ### Markdown
 
