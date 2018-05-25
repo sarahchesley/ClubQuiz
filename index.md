@@ -15,13 +15,9 @@ Historian: Gabriel Mukobi
 </p>
 
 <p align = right> pay NHS dues ($15 once a year)
-
 submit 4 hours of service monthly by 11:59PM on the 1st day of each month
-
 attend at least one meeting each month
-
 participate in at least ONE NHS sponsored event each semester
-
 maintain a 3.4 cumulative GPA </p>
 
 ### Markdown
