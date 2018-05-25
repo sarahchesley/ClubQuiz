@@ -1,6 +1,6 @@
 # CHS National Honor Society
 ### _noblesse oblige_ "nobility obligates"
-<IMG SRC = http://hssn-media.advance.net/OregonLive.com/news/c35c1e4596339fedff66ec34f96c13f2/camaslogo.jpg>
+<IMG SRC = http://hssn-media.advance.net/OregonLive.com/news/c35c1e4596339fedff66ec34f96c13f2/camaslogo.jpg align=left>
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
