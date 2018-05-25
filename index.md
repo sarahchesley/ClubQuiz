@@ -1,6 +1,6 @@
 # CHS Club Quiz 
 ### Find the best clubs to match you 
-<IMG SRC = http://highschoolsports.oregonlive.com/news/article/-6641619067933484183/camas-quarterback-reilly-hennessey-earns-washingtons-gatorade-player-of-the-year-honors/>
+<IMG SRC = http://hssn-media.advance.net/OregonLive.com/news/c35c1e4596339fedff66ec34f96c13f2/camaslogo.jpg>
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
